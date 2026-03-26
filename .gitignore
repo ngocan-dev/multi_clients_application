@@ -1,0 +1,15 @@
+# Ant/NetBeans build output
+/build/
+/dist/
+
+# NetBeans private/project-local metadata
+/nbproject/private/
+
+# JVM crash and replay artifacts
+hs_err_pid*
+replay_pid*
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
